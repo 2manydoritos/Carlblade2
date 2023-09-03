@@ -9,7 +9,7 @@ assets:
 - name: obj/W_EX010_W0_TR.mdlx
   method: copy
   source:
-  - name: obj/unused/W_EX010_W0_TR.mdlx
+  - name: obj/W_EX010_W0.mdlx
 
 - name: obj/W_EX010_W0_WI.mdlx
   method: copy
@@ -21,7 +21,7 @@ assets:
   source:
   - name: remastered/obj/W_EX010_W0.mdlx/-0.dds
 
-- name: remastered/obj/W_EX010_W0_TR.mdlx/-0.dds
+- name: remastered\obj\W_EX010_W0_TR.mdlx
   method: copy
   source:
   - name: remastered/obj/W_EX010_W0_TR.mdlx/-0.dds
