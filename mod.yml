@@ -9,7 +9,7 @@ assets:
 - name: obj/W_EX010_W0_TR.mdlx
   method: copy
   source:
-  - name: obj/W_EX010_W0.mdlx
+  - name: obj/unused/W_EX010_W0_TR.mdlx
 
 - name: obj/W_EX010_W0_WI.mdlx
   method: copy
