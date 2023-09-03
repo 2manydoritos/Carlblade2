@@ -1,0 +1,27 @@
+title: Carlblade
+description: Swap the Struggle Hammer for Carl Weezer
+assets:
+- name: obj/W_EX010_W0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_W0.mdlx
+- name: obj/W_EX010_W0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_W0_TR.mdlx
+- name: obj/W_EX010_W0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_W0_WI.mdlx
+- name: remastered/obj/W_EX010_W0.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_W0.mdlx/-0.dds
+- name: remastered/obj/W_EX010_W0_TR.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_W0_TR.mdlx/-0.dds
+- name: remastered/obj/W_EX010_W0_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_W0_TR.mdlx/-0.dds
