@@ -16,11 +16,6 @@ assets:
   source:
   - name: obj/W_EX010_W0.mdlx
 
-- name: obj/W_EX010_W0_RTN.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_W0.mdlx
-
 - name: obj/W_EX010_W0_NM.mdlx
   method: copy
   source:
@@ -40,11 +35,6 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX010_W0_WI.mdlx/-0.dds
-
-- name: remastered/obj/W_EX010_W0_RTN.mdlx/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_W0.mdlx/-0.dds
 
 - name: remastered/obj/W_EX010_W0_NM.mdlx/-0.dds
   method: copy
@@ -70,11 +60,6 @@ assets:
   source:
   - name: obj/W_EX010_U0.mdlx
 
-- name: obj/W_EX010_U0_RTN.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_U0.mdlx
-
 - name: obj/W_EX010_U0_NM.mdlx
   method: copy
   source:
@@ -94,11 +79,6 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX010_U0_WI.mdlx/-0.dds
-
-- name: remastered/obj/W_EX010_U0_RTN.mdlx/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_U0.mdlx/-0.dds
 
 - name: remastered/obj/W_EX010_U0_NM.mdlx/-0.dds
   method: copy
